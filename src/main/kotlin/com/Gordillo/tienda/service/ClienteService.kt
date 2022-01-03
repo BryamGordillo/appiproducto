@@ -1,10 +1,7 @@
 package com.Gordillo.tienda.service
 
 import com.Gordillo.tienda.model.Cliente
-import com.Gordillo.tienda.model.Producto
-
 import com.Gordillo.tienda.repository.ClienteRepository
-
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 import java.util.*

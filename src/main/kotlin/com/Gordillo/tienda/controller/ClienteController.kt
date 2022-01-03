@@ -1,7 +1,6 @@
 package com.Gordillo.tienda.controller
 
 import com.Gordillo.tienda.model.Cliente
-import com.Gordillo.tienda.model.Producto
 import com.Gordillo.tienda.service.ClienteService
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.*
